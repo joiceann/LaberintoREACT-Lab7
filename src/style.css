@@ -1,0 +1,43 @@
+.bloque{
+  width: 50px;
+  height:50px;
+  background-color:#D2145D;
+  
+}
+
+.bloqueIndividuo{
+  width: 50px;
+  height:50px;
+  background-color:white;
+}
+
+.bloqueBlanco{
+  width: 50px;
+  height:50px;
+  background-color:white;
+}
+
+.laberinto{
+  display: grid;
+  grid-template-columns:auto auto auto auto auto auto auto auto auto auto auto auto auto ;
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+}
+
+
+.titulo{
+  font-size: 50px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  padding: 10px;
+  color:rgb(175, 92, 103);
+  text-align: center;
+
+}
+
+
+.App{
+  width: 20%;
+  height: 700px;
+  text-align: center;
+}
+

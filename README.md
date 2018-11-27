@@ -1,1 +1,1 @@
-# LaberintoREACT-Lab7
+# web_lab_6_Memoria-React
